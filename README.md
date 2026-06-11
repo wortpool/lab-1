@@ -58,7 +58,7 @@ http://localhost:5173
 
 ## Pull Request
 
-Посилання на Pull Request буде додано після створення PR на GitHub.
+Pull Request: https://github.com/wortpool/lab-1/pull/1
 
 ## Контрольні питання
 
