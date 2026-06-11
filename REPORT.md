@@ -28,7 +28,11 @@ https://github.com/wortpool/lab-1/pull/1
 
 ## Network graph
 
-Сторінка для скриншота графіка гілок:
+Скриншот графіка гілок:
+
+![Network graph](docs/network-graph.png)
+
+Сторінка графіка:
 
 https://github.com/wortpool/lab-1/network
 
