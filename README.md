@@ -58,7 +58,7 @@ http://localhost:5173
 
 ## Pull Request
 
-Pull Request було закрито після Code Review та merge у develop.
+Pull Request: https://github.com/wortpool/lab-1/pull/1 - закритий після Code Review та merge у `develop`.
 
 ## Контрольні питання
 
