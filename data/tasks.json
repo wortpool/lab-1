@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Prepare repository hygiene",
+    "description": "Add README, .gitignore and environment variable example.",
+    "status": "done",
+    "priority": "high",
+    "owner": "Ihor"
+  },
+  {
+    "title": "Create feature branch",
+    "description": "Build the first UI iteration outside the main branch.",
+    "status": "review",
+    "priority": "medium",
+    "owner": "Ihor"
+  },
+  {
+    "title": "Resolve merge conflict",
+    "description": "Create conflicting edits and document the final resolution.",
+    "status": "development",
+    "priority": "high",
+    "owner": "Ihor"
+  },
+  {
+    "title": "Attach network graph screenshot",
+    "description": "Add the GitHub graph screenshot to the laboratory report.",
+    "status": "backlog",
+    "priority": "low",
+    "owner": "Ihor"
+  }
+]
