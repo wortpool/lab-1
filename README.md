@@ -58,7 +58,7 @@ http://localhost:5173
 
 ## Pull Request
 
-Посилання на Pull Request буде додано після створення PR на GitHub.
+Pull Request було закрито після Code Review та merge у develop.
 
 ## Контрольні питання
 
