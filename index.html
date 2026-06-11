@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitFlow Automation Board</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Lab 1 / Git workflow</p>
+          <h1 id="page-title">GitFlow Automation Board</h1>
+          <p class="hero-copy">
+            Міні-дошка для контролю задач, Pull Request і code review перед
+            злиттям у develop.
+          </p>
+        </div>
+        <aside class="release-card" aria-label="Release readiness">
+          <span class="release-label">Release readiness</span>
+          <strong id="readiness-value">0%</strong>
+          <span id="readiness-caption">Loading tasks...</span>
+        </aside>
+      </section>
+
+      <section class="summary-grid" aria-label="Workflow summary">
+        <article>
+          <span id="total-tasks">0</span>
+          <p>Total tasks</p>
+        </article>
+        <article>
+          <span id="review-tasks">0</span>
+          <p>In review</p>
+        </article>
+        <article>
+          <span id="done-tasks">0</span>
+          <p>Done</p>
+        </article>
+      </section>
+
+      <section class="board" id="board" aria-label="Task board"></section>
+    </main>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
