@@ -1,0 +1,18 @@
+{
+  "name": "gitflow-automation-board",
+  "version": "1.0.0",
+  "description": "Small frontend MVP for Git workflow laboratory work.",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "check": "node --check src/app.js"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "gitflow",
+    "laboratory-work"
+  ],
+  "author": "Ihor Savula",
+  "license": "MIT"
+}
