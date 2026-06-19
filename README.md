@@ -10,7 +10,7 @@
 Додаток допомагає швидко побачити, які задачі вже готові до Pull Request,
 які очікують code review, а які ще потрібно доробити. Це маленький приклад
 проєкту, на якому можна продемонструвати GitFlow, feature branches,
-Pull Request, Code Review та вирішення merge conflict.
+Pull Request, Code Review та вирішення merge conflict. a
 
 ## Технології
 
