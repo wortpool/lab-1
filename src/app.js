@@ -99,7 +99,7 @@ function renderSummary(tasks) {
   document.querySelector("#readiness-value").textContent = `${readiness}%`;
   document.querySelector("#readiness-caption").textContent =
     readiness === 100 ? "Ready to merge" : "Needs review before merge";
-}
+}фі
 
 async function init() {
   const tasks = await loadTasks();
