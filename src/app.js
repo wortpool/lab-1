@@ -93,7 +93,7 @@ function renderSummary(tasks) {
   const review = tasks.filter((task) => task.status === "review").length;
   const readiness = Math.round((done / tasks.length) * 100);
 
-  document.querySelector("#total-tasks").textContent = tasks.length;
+  document.querySelector("#total-tasks2").textContent = tasks.length;
   document.querySelector("#review-tasks").textContent = review;
   document.querySelector("#done-tasks").textContent = done;
   document.querySelector("#readiness-value").textContent = `${readiness}%`;
